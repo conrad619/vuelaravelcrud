@@ -1,6 +1,6 @@
 ## Laravel Vue basic crud
 
-run SQL and upload sql `vuecrud.sql` that is in the root of the folder
+run your SQL database and upload sql `vuecrud.sql` that is in the root of the folder
 
 set `.env` database to `DB_DATABASE=vuecrud`
 
